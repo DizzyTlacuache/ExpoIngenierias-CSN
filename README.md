@@ -14,6 +14,8 @@ El evento será el **30 de noviembre de 2026, de 3:30 a 5:00 p. m.**, en el Sal�
 
 Abre `index.html` en un navegador. El sitio utiliza HTML, CSS y JavaScript, sin compilación ni instalación de dependencias.
 
+La [muestra virtual](muestra_virtual.htm) presenta los proyectos destacados y también puede abrirse directamente en el navegador.
+
 ## Despliegue en GitHub Pages
 
 El sitio publicado está disponible en [GitHub Pages](https://dizzytlacuache.github.io/ExpoIngenierias-CSN/). El flujo [Deploy static content to Pages](https://github.com/DizzyTlacuache/ExpoIngenierias-CSN/blob/main/.github/workflows/static.yml) se ejecuta automáticamente al enviar cambios a `main`; también puede ejecutarse manualmente desde la pestaña **Actions**.
